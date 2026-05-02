@@ -1,0 +1,38 @@
+{
+  "name": "senext",
+  "version": "0.0.1",
+  "description": "Software Engineering Next Generation — CLI for Senext School & Ecosy agentic ecosystem (placeholder, full CLI coming)",
+  "bin": {
+    "senext": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "senext",
+    "ecosy",
+    "agentic",
+    "cli",
+    "ai",
+    "agent",
+    "llm",
+    "mcp",
+    "software-engineering",
+    "next-generation"
+  ],
+  "homepage": "https://senext.school",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/material-atomic/senext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/material-atomic/senext/issues"
+  },
+  "license": "MIT",
+  "author": "Material Atomic"
+}
